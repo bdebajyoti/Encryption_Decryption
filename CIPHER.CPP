@@ -1,11 +1,9 @@
 #include<stdio.h>
 #include<process.h>
-#include<graphics.h>
 #include<iostream.h>
 #include<conio.h>
 #include<string.h>
 #include<fstream.h>
-#include<dos.h>
 #include<stdlib.h>
 #include<ctype.h>
 /*
